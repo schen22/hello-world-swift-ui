@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE1547E0237BD3CF002F6630 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1547DF237BD3CF002F6630 /* Home.swift */; };
 		CE86309223389ECB00E9CDD5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE86309123389ECB00E9CDD5 /* AppDelegate.swift */; };
 		CE86309423389ECB00E9CDD5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE86309323389ECB00E9CDD5 /* SceneDelegate.swift */; };
 		CE86309623389ECB00E9CDD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE86309523389ECB00E9CDD5 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CE1547DF237BD3CF002F6630 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		CE86308E23389ECB00E9CDD5 /* hello-world-swift-ui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hello-world-swift-ui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE86309123389ECB00E9CDD5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE86309323389ECB00E9CDD5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				CE86309123389ECB00E9CDD5 /* AppDelegate.swift */,
 				CE86309323389ECB00E9CDD5 /* SceneDelegate.swift */,
 				CE86309523389ECB00E9CDD5 /* ContentView.swift */,
+				CE1547DF237BD3CF002F6630 /* Home.swift */,
 				CE86309723389ECD00E9CDD5 /* Assets.xcassets */,
 				CE86309C23389ECD00E9CDD5 /* LaunchScreen.storyboard */,
 				CE86309F23389ECD00E9CDD5 /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				CE86309223389ECB00E9CDD5 /* AppDelegate.swift in Sources */,
 				CE86309423389ECB00E9CDD5 /* SceneDelegate.swift in Sources */,
+				CE1547E0237BD3CF002F6630 /* Home.swift in Sources */,
 				CE86309623389ECB00E9CDD5 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
