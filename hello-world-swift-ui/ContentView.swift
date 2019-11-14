@@ -24,7 +24,8 @@ struct ContentView: View {
             Text("\(keyboardInput)")
 
         }
-    .padding()
+        .padding()
+        .navigationBarTitle(Text("Content"))
     }
     
     func updateVerifiedInput() {
